@@ -7,6 +7,3 @@
 # x=int(input("enter num : "))
 # y=int(input("enter num : "))
 # print(variables(x,y))
-
-if 2:
-    print("a")
